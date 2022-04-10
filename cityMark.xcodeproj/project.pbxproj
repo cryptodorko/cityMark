@@ -13,6 +13,7 @@
 		ECCCD0142803024800CC0D09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECCCD0122803024800CC0D09 /* Main.storyboard */; };
 		ECCCD0162803024A00CC0D09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECCCD0152803024A00CC0D09 /* Assets.xcassets */; };
 		ECCCD0192803024A00CC0D09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECCCD0172803024A00CC0D09 /* LaunchScreen.storyboard */; };
+		ECCCD0212803145900CC0D09 /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECCCD0202803145900CC0D09 /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ECCCD0152803024A00CC0D09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECCCD0182803024A00CC0D09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECCCD01A2803024A00CC0D09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECCCD0202803145900CC0D09 /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ECCCD00C2803024800CC0D09 /* AppDelegate.swift */,
 				ECCCD00E2803024800CC0D09 /* SceneDelegate.swift */,
 				ECCCD0102803024800CC0D09 /* ViewController.swift */,
+				ECCCD0202803145900CC0D09 /* imageViewController.swift */,
 				ECCCD0122803024800CC0D09 /* Main.storyboard */,
 				ECCCD0152803024A00CC0D09 /* Assets.xcassets */,
 				ECCCD0172803024A00CC0D09 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				ECCCD0112803024800CC0D09 /* ViewController.swift in Sources */,
 				ECCCD00D2803024800CC0D09 /* AppDelegate.swift in Sources */,
+				ECCCD0212803145900CC0D09 /* imageViewController.swift in Sources */,
 				ECCCD00F2803024800CC0D09 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
